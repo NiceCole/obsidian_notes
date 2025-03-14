@@ -11,10 +11,14 @@
             "id": "fc5d97ea730a0207",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notes/2025-03-14.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-03-14"
             }
           }
         ]
@@ -166,6 +170,8 @@
   },
   "active": "fc5d97ea730a0207",
   "lastOpenFiles": [
+    "2025-03-14.md",
+    "notes/2025-03-14.md",
     "500+/Git/git命令汇总.md",
     "notes/2025-03-12.md",
     "500+/深入解析服务器缓存方案.md",
