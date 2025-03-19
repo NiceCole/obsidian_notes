@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500+/前端渲染 3D 模型时内存占用过高.md",
+                "file": "notes/2025-03-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "前端渲染 3D 模型时内存占用过高"
+              "title": "2025-03-19"
             }
           }
         ]
@@ -170,9 +170,23 @@
   },
   "active": "fc5d97ea730a0207",
   "lastOpenFiles": [
+    "2025-03-19.md",
+    "notes/2025-03-19.md",
+    "500+/Linux/linux命令汇总.md",
+    "500+/Linux/imgs/Pasted image 20250319164009.png",
+    "500+/Linux/imgs/Pasted image 20250319163759.png",
+    "500+/Linux/imgs/Pasted image 20250319163455.png",
+    "500+/Linux/imgs/Pasted image 20250319163426.png",
+    "500+/Linux/imgs/Pasted image 20250319102613.png",
+    "500+/Linux/imgs/Pasted image 20250319102111.png",
+    "500+/Linux/imgs",
+    "500+/Linux/初始linux.md",
+    "500+/Linux/imgs/Pasted image 20250319094203.png",
+    "notes/2025-03-18.md",
+    "notes/2025-03-17.md",
+    "500+/前端渲染 3D 模型时内存占用过高.md",
     "500+/深入解析服务器缓存方案.md",
     "notes/2025-03-16.md",
-    "500+/前端渲染 3D 模型时内存占用过高.md",
     "notes/2025-03-04.md",
     "notes/2025-03-05.md",
     "notes/2025-03-07.md",
@@ -184,7 +198,6 @@
     "500+/Git/git命令汇总.md",
     "400+/如何用Chrome Dev Tools来分析页面性能.md",
     "2025-03-11.md",
-    "500+/Linux/linux命令汇总.md",
     "500+/Linux",
     "500+/Git",
     "program/维修工厂（toBtoC）.md",
@@ -194,27 +207,16 @@
     "2025-03-07.md",
     "2025-03-05.md",
     "2025-03-04.md",
-    "notes/2025-03-04 1.md",
     "400+/img/Pasted image 20250304184300.png",
     "400+/img/Pasted image 20250304183511.png",
     "400+/img/Pasted image 20250304170951.png",
     "400+/img",
-    "400+/img/Pasted image 20250304170525.png",
-    "400+/img/Pasted image 20250304165743.png",
-    "400+/img/Pasted image 20250304152239.png",
-    "400+/img/Pasted image 20250304150455.png",
-    "Pasted image 20250304150437.png",
-    "Pasted image 20250304150449.png",
-    "400+/Pasted image 20250304150221.png",
     "400+",
     "300+",
     "200+",
-    "notes/2025-03-03.md",
-    "500+/Linux/初始linux.md",
     "500+",
     "UntitledUntitled.canvas",
     "notes",
-    "Untitled/Untitled.canvas",
-    "100+"
+    "Untitled/Untitled.canvas"
   ]
 }
